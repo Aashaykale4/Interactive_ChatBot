@@ -1,0 +1,144 @@
+{
+    "intents": [
+        
+      {
+        "tag": "greeting",
+        "patterns": [
+          "What's up?",
+          "Yo!",
+          "Howdy!",
+          "Greetings!",
+          "Good to see you!",
+          "Hi, how's it going?",
+          "Hey, what's happening?",
+          "Hiya!",
+          "Well, hello there!",
+          "Hi, nice to meet you!"
+        ],
+        "responses": [
+          "Hiya, good to have you here!",
+          "Hey, nice of you to drop by!",
+          "Howdy! What can I assist you with today?",
+          "Hello! How can I be of service?",
+          "Greetings! Ready to chat?",
+          "Hi there, let's get started!",
+          "Well, hello! What brings you here?",
+          "Yo! What's on your mind?",
+          "Hey, good to see you! How can I help you today?",
+          "Hi, nice to meet you! How's your day going?"
+        ]
+      },
+      
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Until next time",
+          "Take care",
+          "See you soon",
+          "Farewell",
+          "Bye for now",
+          "Catch you later",
+          "Adios",
+          "Goodbye, friend",
+          "Have a great day",
+          "Later, gator"
+        ],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon.",
+          "Until we meet again!",
+          "Take care of yourself!",
+          "Goodbye, and stay safe!",
+          "Farewell! Don't be a stranger!",
+          "Have a wonderful day ahead!",
+          "Take it easy!",
+          "Catch you later, alligator!"
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": [
+          "Thanks",
+          "Thank you",
+          "That's helpful",
+          "Thank's a lot!",
+          "Appreciate it"
+        ],
+        "responses": [
+          "Happy to help!",
+          "Any time!",
+          "My pleasure",
+          "Glad I could assist!",
+          "You're welcome!",
+          "It was my pleasure to assist you!",
+          "No problem at all!",
+          "Always here to help!",
+          "You bet!",
+          "I'm here whenever you need me!"
+        ]
+      },
+      
+      {
+        "tag": "items",
+        "patterns": [
+          "What beverages do you offer?",
+          "Which drinks are on your menu?",
+          "Can you list your products?",
+          "What can I order?"
+        ],
+        "responses": [
+          "We offer a variety of beverages including coffee, tea, and soft drinks.",
+          "Our menu includes coffee, tea, and assorted beverages.",
+          "You can order coffee, tea, and other refreshments from our menu.",
+          "We have a selection of drinks such as coffee, tea, and more."
+        ]
+      },
+      {
+        "tag": "payments",
+        "patterns": [
+          "What payment methods do you accept?",
+          "Do you support Apple Pay?",
+          "Can I pay with a debit card?",
+          "What are your accepted payment options?"
+        ],
+        "responses": [
+          "We accept VISA, Mastercard, American Express, and digital wallets like Apple Pay and Google Pay.",
+          "You can pay using major credit cards, debit cards, and digital payment services like Apple Pay.",
+          "We accept various payment methods including credit cards, debit cards, and popular digital wallets.",
+          "Our accepted payment options include VISA, Mastercard, and popular digital payment services."
+        ]
+      },
+      {
+        "tag": "delivery",
+        "patterns": [
+          "How soon can I expect my order?",
+          "When will my package arrive?",
+          "What is the estimated delivery time?",
+          "How long does it take to receive my order?"
+        ],
+        "responses": [
+          "Delivery typically takes 2-4 business days depending on your location.",
+          "You can expect your order to arrive within 2-4 business days after it's been shipped.",
+          "Our standard shipping time is 2-4 business days for most locations.",
+          "The estimated delivery time for your order is 2-4 business days."
+        ]
+      },
+      {
+        "tag": "funny",
+        "patterns": [
+          "Tell me another joke!",
+          "Make me laugh!",
+          "I need a good laugh!",
+          "Got any more jokes?"
+        ],
+        "responses": [
+          "Why don't scientists trust atoms? Because they make up everything!",
+          "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them!",
+          "Why don't skeletons fight each other? They don't have the guts!",
+          "I told my wife she was drawing her eyebrows too high. She looked surprised!"
+        ]
+      }
+      
+    ]
+  }
