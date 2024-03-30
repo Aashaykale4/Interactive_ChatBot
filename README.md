@@ -3,9 +3,9 @@ Sure, here's a full README in Markdown format:
 
 markdown
 Copy code
-# Simple Chatbot Interface
+# Interactive Chatbot
 
-This project provides a simple chatbot interface implemented using HTML, CSS, and JavaScript. The interface allows users to interact with a chatbot named "Sam" to get assistance or information.
+This project provides a simple chatbot interface implemented using HTML, CSS, and JavaScript,Python-Flask. The interface allows users to interact with a chatbot named "Sam" to get assistance or information.
 
 ## Features
 
